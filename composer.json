@@ -3,12 +3,12 @@
   "type": "library",
   "license": "MIT",
   "description": "Webman plugin jizhi/webman-hashids",
-  "require": {
-  },
+
   "require": {
     "php": ">=8.0",
     "hashids/hashids": "^5"
   },
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Jizhi\\WebmanHashids\\": "src"
