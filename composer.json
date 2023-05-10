@@ -1,8 +1,8 @@
 {
-  "name": "jz/webman-hashids",
+  "name": "jizhi/webman-hashids",
   "type": "library",
   "license": "MIT",
-  "description": "Webman plugin jz/webman-hashids",
+  "description": "Webman plugin jizhi/webman-hashids",
   "require": {
   },
   "require": {
@@ -11,7 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Jz\\WebmanHashids\\": "src"
+      "Jizhi\\WebmanHashids\\": "src"
     },
     "files": [
       "src/helpers.php"

@@ -1,6 +1,6 @@
 <?php
 
-namespace Jz\WebmanHashids\Exceptions;
+namespace Jizhi\WebmanHashids\Exceptions;
 
 use Exception;
 

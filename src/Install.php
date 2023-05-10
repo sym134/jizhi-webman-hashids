@@ -1,5 +1,5 @@
 <?php
-namespace Jz\WebmanHashids;
+namespace Jizhi\WebmanHashids;
 
 class Install
 {
@@ -9,7 +9,7 @@ class Install
      * @var array
      */
     protected static $pathRelation = array (
-  'config/plugin/jz/webman-hashids' => 'config/plugin/jz/webman-hashids',
+  'config/plugin/jizhi/webman-hashids' => 'config/plugin/jizhi/webman-hashids',
 );
 
     /**

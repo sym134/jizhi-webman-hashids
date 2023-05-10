@@ -1,6 +1,6 @@
 <?php
 
-namespace Jz\WebmanHashids\Traits;
+namespace Jizhi\WebmanHashids\Traits;
 
 
 trait Hashid
